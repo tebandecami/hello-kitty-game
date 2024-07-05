@@ -1,0 +1,12 @@
+
+cd C:/Users/TuUsuario/HelloKittyGame
+git init 
+git add hellokitty.html
+git add style.css
+git add juego.js
+git add Hello_kitty.png
+git add Heart.png
+git add bomb.png
+git commit -m "Primer commit: agrega el juego de Hello Kitty"
+git remote add origin https://github.com/tu-usuario/tu-repositorio.git
+git push -u origin master
